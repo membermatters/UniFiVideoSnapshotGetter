@@ -1,0 +1,10 @@
+{
+  "apiKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "protocol": "http",
+  "port": 7080,
+  "host": "nvr.example.org",
+  "frequency": 3600,
+  "cameras": [
+    {"id": "xxxxxxxxxxxxxxxxxxxxxxxx", "name": "Camera Name"}
+  ]
+}
