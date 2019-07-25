@@ -21,4 +21,4 @@ Tip: you should end up with something like this before starting the container:
 ``` 
 
 ## Using the output files
-You'll find all of the jpg snapshots in the output folder you specified. The default 
+You'll find all of the jpg snapshots in the output folder you specified. They will be in the format <camer-name.jpg> and all spaces from the camera name will be replaced with a "-" for convenience in serving it on the web. ie "Test Camera" will output as "Test-Camera.jpg". 
