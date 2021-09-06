@@ -1,5 +1,5 @@
 # Specify our base image
-FROM python:3.7
+FROM python:3.8.10
 MAINTAINER Jaimyn Mayer (infrastructure@hsbne.org)
 
 # Copy our requirements across and install dependencies
